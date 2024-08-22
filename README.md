@@ -6,7 +6,7 @@ This repository contains a collection of exercises and projects developed for th
 
 The exercises cover a wide range of topics within the field of machine learning, providing hands-on experience with various algorithms, data processing techniques, and evaluation methods.
 
-### Topics Covered
+## Topics Covered
 
 - **Data Preprocessing:** Techniques for data cleaning, normalization, and transformation to prepare datasets for machine learning models.
   
