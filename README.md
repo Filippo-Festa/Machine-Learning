@@ -17,11 +17,3 @@ The exercises cover a wide range of topics within the field of machine learning,
 - **Model Evaluation:** Best practices for model validation, including cross-validation, confusion matrix analysis, and performance metrics such as accuracy, precision, recall, and F1-score.
 
 - **Advanced Topics:** Exploration of ensemble methods like Random Forests and Gradient Boosting, along with an introduction to deep learning concepts.
-
-## Learning Objectives
-
-- **Practical Skills:** Enhance coding skills in Python, specifically for machine learning tasks, using popular libraries such as Scikit-learn, Pandas, and TensorFlow.
-  
-- **Theoretical Understanding:** Deepen the theoretical knowledge of machine learning principles, including the mathematics behind various algorithms and the conditions under which they perform best.
-
-- **Problem-Solving:** Develop the ability to approach machine learning problems methodically, from problem formulation and data exploration to model selection and evaluation.
