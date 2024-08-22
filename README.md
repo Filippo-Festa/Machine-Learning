@@ -4,7 +4,7 @@ This repository contains a collection of exercises and projects developed for th
 
 ## Overview
 
-The exercises cover a wide range of topics within the field of machine learning, providing hands-on experience with various algorithms, data processing techniques, and evaluation methods. This repository is structured to support learning progression from basic concepts to more complex topics.
+The exercises cover a wide range of topics within the field of machine learning, providing hands-on experience with various algorithms, data processing techniques, and evaluation methods.
 
 ### Topics Covered
 
